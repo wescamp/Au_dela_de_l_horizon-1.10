@@ -1,0 +1,29 @@
+#textdomain wesnoth-Au_dela_de_l_horizon
+
+#define WATERFALL_MASK X Y
+    [item]
+        image=projectiles/icemissile-n-6.png
+        x={X}
+        y={Y}
+    [/item]
+    [item]
+        image=projectiles/icemissile-n-5.png
+        x={X}
+        y={Y}
+    [/item]
+    [item]
+        image=projectiles/icemissile-n-4.png
+        x={X}
+        y={Y}
+    [/item]
+    [item]
+        image=projectiles/icemissile-n-3.png
+        x={X}
+        y={Y}
+    [/item]
+    [item]
+        image=halo/elven/nature-halo1.png
+        x={X}
+        y={Y}
+    [/item]
+#enddef
